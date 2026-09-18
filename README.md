@@ -16,14 +16,20 @@ permissions, and risk.
 
 ## Selected work
 
+### [Precision Measurement Systems](https://github.com/zzhangio/precision-measurement-systems)
+
+My core PhD research: measuring piconewton-scale quantum-fluctuation forces
+with a custom MEMS platform. I integrate semiconductor nanofabrication,
+materials characterization, low-noise lock-in instrumentation, experiment
+automation, and reproducible analysis to turn weak physical signals into
+auditable scientific evidence.
+
 ### [x402 Adaptor Mask](https://github.com/zzhangio/x402-adaptor-mask)
 
 A privacy-aware payment control plane for agents purchasing x402 services.
 The project uses constrained budgets, disposable payers, encrypted recovery
 records, and auditable receipts. It has been validated with real paid API
 calls on Base using USDC.
-
-
 
 ## Research experience
 
